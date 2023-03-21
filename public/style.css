@@ -1,0 +1,22 @@
+.navbar{
+    width: 100%;
+    display: flex;
+  justify-content:space-between ;
+  background-color: antiquewhite;
+}
+.header{
+    margin-left: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+li{
+    display: inline-block;
+}
+a {
+    text-decoration: none;
+    color: black
+}
+img{
+    width: 100%;
+    height: 100vh;
+}
